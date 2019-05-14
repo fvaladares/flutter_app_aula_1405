@@ -1,5 +1,7 @@
 # flutter_app_aula_1405
 
+## Adicione uma nova linha, com um ícone de cada lado, e o texto ocupando toda a parte central.
+
 A new Flutter application.
 
 ## Getting Started
