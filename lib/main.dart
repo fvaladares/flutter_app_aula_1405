@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
 class HelloRectangle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
+    // TODO: Adicionar uma nova Row;
     return (Container(
       child: Center(
         child: Row(
